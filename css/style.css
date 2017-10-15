@@ -5,7 +5,9 @@ background-color: #000;
 }
 
 h1,h3 { font-family: 'Lobster', Helvetica,
+sans-serif; }
 
+.content-box {
   margin-top: 50px;
   margin-bottom: 50px;
   padding-top: 15px;
